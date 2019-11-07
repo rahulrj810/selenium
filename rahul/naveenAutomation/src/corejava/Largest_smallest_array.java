@@ -13,6 +13,9 @@ public class Largest_smallest_array {
 			if(num[i]>largest) {
 				largest=num[i];
 			}
+			//else(smallest<num[i]){
+				
+			
 			
 			
 		}
